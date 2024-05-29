@@ -1,3 +1,4 @@
 console.log('Hello world');
 let name="Ayush Chauhan";
-console.log(name);
+let age=21;
+console.log(name,age);
